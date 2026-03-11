@@ -32,7 +32,7 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 5. ¿Por qué en la práctica muchas organizaciones combinan metodologías ágiles y modelos dirigidos por un plan?
 
-   R: 
+   R: para tener planificación pero también poder adaptarse a cambios durante el proyecto
 
 
 ### Actividad 2
