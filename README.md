@@ -39,23 +39,25 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis                      |             |
-| Diseño                        |             |
-| Codificación                  |             |
-| Prueba                        |             |
-| Puesta en marcha / Despliegue |             |
+| Análisis                      |Los analistas realizan un relevamiento de la organización para identificar necesidades, problemas y requerimientos de los usuarios, teniendo en cuenta restricciones y limitaciones| 
+| Diseño                        |Se elabora una idea/diseño de una solucion  que aborde los problemas considerando los requerimientos del análisis y las restricciones, y se crea documentación técnica para que los programadores puedan construir el código|
+| Codificación                  |Los programadores construyen el código del software siguiendo las especificaciones del diseño y usando un lenguaje de programación|
+| Prueba                        |se encarga de identificar los errores posibles|
+| Puesta en marcha / Despliegue |Se instala el programa en las computadoras del cliente y se enseña a las personas que vayan a usar el nuevo software.|
 
 
 * Luego responda:
   * ¿En qué etapa se obtienen los requerimientos del sistema?
     
-    R:
+    R: Analisis
+    
   * ¿En qué etapa se construye el programa?
 
-    R:
+    R: codificacion
+    
   * ¿Cuál es el objetivo principal de las pruebas?
     
-    R:
+    R: evitar posibles errores antes de que se lanze de forma oficial el programa y no haya problemas
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
