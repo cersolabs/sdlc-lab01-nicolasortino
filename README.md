@@ -67,20 +67,28 @@ Ordene las siguientes etapas según corresponda  Diseño
 - Despliegue
 - Ingeniería de requerimientos
 ---
-R:
+R: Ingenieria en requerimientos
+   diseño
+   codificación
+   prueba
+   despliegue
 
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:
+    R:Si hay un error en una etapa inicial, las etapas siguientes se basarán en información, por lo que el sistema puede desarrollarse con fallas y luego será más difícil corregirlo. Ver de nuevo en el material
+    
+    
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
-    R:
+    R: Porque el modelo sigue etapas definidas desde el inicio, y si los requerimientos cambian durante el proyecto, se tendría que volver a etapas anteriores y modificar muchas cosas, lo que complica y retrasa el desarrollo. ver de nuevo en el material
+    
+    
 ### Actividad 4
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |                          |                        |
+| Cascada     |                          |para sistemas simples y pequeños ya que consta de 5 etapas simples|
 | Incremental |                          |                        |
 | Prototipos  |                          |                        |
 | Espiral     |                          |                        |
