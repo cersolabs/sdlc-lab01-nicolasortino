@@ -76,7 +76,7 @@ R: Ingenieria en requerimientos
 - Luego responder:
   * ¿Qué problema puede surgir si hay un error en una etapa inicial?
     
-    R:Si hay un error en una etapa inicial, las etapas siguientes se basarán en información, por lo que el sistema puede desarrollarse con fallas y luego será más difícil corregirlo. Ver de nuevo en el material
+    R:Si hay un error en una etapa inicial, las etapas siguientes se basarán en información, por lo que el sistema puede desarrollarse con fallas y luego será más difícil corregirlo. 
     
     
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
