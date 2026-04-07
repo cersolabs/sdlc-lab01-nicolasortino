@@ -116,7 +116,7 @@ Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
   R: yo recomendaria usar cascada 
 - Justifique su respuesta.
 
-  R: ya que es un modelo rapido con 5 etapas muy claras, donde tambien de aplica un analisis de requerimintos basatnte estricto.Aparte de que al tener 5 etapas rapidas y claras permite acotar el tiempo para hacerlo mas rapido, y no se hace falta de un equipo tan grande como para poder cumplir con lo pedido
+  R: ya que es un modelo rapido con 5 etapas muy claras, donde tambien de aplica un analisis de requerimintos basatnte estricto y que se define desde el principio evitando confusiones y objetivos claros .Aparte de que al tener 5 etapas rapidas y claras permite acotar el tiempo para hacerlo mas rapido, y no se hace falta de un equipo tan grande como para poder cumplir con lo pedido
   
 - ¿Qué etapas principales tendría el desarrollo?
 
